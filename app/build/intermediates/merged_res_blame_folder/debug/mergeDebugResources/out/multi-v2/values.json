@@ -1,0 +1,62 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.rayanrahmoun.chat.app-mergeDebugResources-2:/values/values.xml",
+            "map": [
+                {
+                    "source": "/data/data/com.termux/files/home/RayanRahmoun/app/src/main/res/values/colors.xml",
+                    "from": {
+                        "startLines": "0",
+                        "startColumns": "11",
+                        "startOffsets": "11",
+                        "endColumns": "47",
+                        "endOffsets": "47"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "40",
+                        "endOffsets": "91"
+                    }
+                },
+                {
+                    "source": "/data/data/com.termux/files/home/RayanRahmoun/app/src/main/res/values/styles.xml",
+                    "from": {
+                        "startLines": "1",
+                        "startColumns": "0",
+                        "startOffsets": "12",
+                        "endLines": "4",
+                        "endColumns": "8",
+                        "endOffsets": "200"
+                    },
+                    "to": {
+                        "startLines": "4",
+                        "startColumns": "4",
+                        "startOffsets": "147",
+                        "endLines": "7",
+                        "endColumns": "8",
+                        "endOffsets": "335"
+                    }
+                },
+                {
+                    "source": "/data/data/com.termux/files/home/RayanRahmoun/app/src/main/res/values/strings.xml",
+                    "from": {
+                        "startLines": "0",
+                        "startColumns": "11",
+                        "startOffsets": "11",
+                        "endColumns": "57",
+                        "endOffsets": "57"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "96",
+                        "endColumns": "50",
+                        "endOffsets": "142"
+                    }
+                }
+            ]
+        }
+    ]
+}

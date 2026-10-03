@@ -1,0 +1,7 @@
+com.rayanrahmoun.chat.app-pngs-0 /data/data/com.termux/files/home/RayanRahmoun/app/build/generated/res/pngs/debug
+com.rayanrahmoun.chat.app-resValues-1 /data/data/com.termux/files/home/RayanRahmoun/app/build/generated/res/resValues/debug
+com.rayanrahmoun.chat.app-packageDebugResources-2 /data/data/com.termux/files/home/RayanRahmoun/app/build/intermediates/incremental/debug/packageDebugResources/merged.dir
+com.rayanrahmoun.chat.app-packageDebugResources-3 /data/data/com.termux/files/home/RayanRahmoun/app/build/intermediates/incremental/debug/packageDebugResources/stripped.dir
+com.rayanrahmoun.chat.app-debug-4 /data/data/com.termux/files/home/RayanRahmoun/app/build/intermediates/merged_res/debug/mergeDebugResources
+com.rayanrahmoun.chat.app-debug-5 /data/data/com.termux/files/home/RayanRahmoun/app/src/debug/res
+com.rayanrahmoun.chat.app-main-6 /data/data/com.termux/files/home/RayanRahmoun/app/src/main/res
